@@ -1,0 +1,6 @@
+{
+  "name": "PokéARK: Survival 2.5D",
+  "description": "Juego de supervivencia y domesticación de criaturas en 2.5D estilo ARK con crafteo, construcción de base y combate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
